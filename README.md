@@ -126,11 +126,10 @@ Bye.
 
 ## Use Cases
 
-- **Password Training**: Practice typing complex work passwords
+- **Password Training**: Practice typing complex passwords
 - **Security Drills**: Test your ability to recall backup/recovery passwords
 - **Team Training**: Share tokens (not passwords) for training exercises
 - **Memory Reinforcement**: Build muscle memory for important credentials
-- **Travel Security**: Practice passwords before trips when you might be stressed
 
 ## File Format
 
