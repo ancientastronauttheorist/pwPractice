@@ -36,11 +36,11 @@ pip install cryptography
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-practice-utility.git
+git clone https://github.com/ancientastronauttheorist/password-practice-utility.git
 cd password-practice-utility
 
 # Or download directly
-wget https://raw.githubusercontent.com/yourusername/password-practice-utility/main/password_practice.py
+wget https://raw.githubusercontent.com/ancientastronauttheorist/password-practice-utility/main/password_practice.py
 chmod +x password_practice.py
 ```
 
